@@ -1,4 +1,4 @@
-![result](https://github.com/zikriramdani/laravel1/blob/main/screencapture.png)
+![result](https://github.com/zikriramdani/laravel2/blob/main/screencapture.png)
 
 <b>Simple Blog System With Laravel</b><br>
 <hr>

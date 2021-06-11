@@ -2,9 +2,9 @@
 
 <b>Simple Blog System With Laravel</b><br>
 <hr>
-<h6>
+<p>
     Aplikasi ini mempunyai fitur : 
-</h6>
+</p>
 <ul>
         <li> Gutenberg Editor like Wordpress</li>
         <li> Page Builder</li>

@@ -11,7 +11,7 @@
         <li> Menu Manager</li>
 </ul>
 
-<p>Aplikasi ini dibuat menggunakan Framework Laravel 5 dengan tambahan package-package lain, seperti :<br>
+<p>Aplikasi ini dibuat menggunakan Framework Laravel 5 dengan tambahan package-package lain, seperti :<br><br>
 1) Bootstrap 4,<br>
 2) SweetAlert,<br>
 3) Datatables,<br>

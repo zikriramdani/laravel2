@@ -15,11 +15,11 @@
 1) Bootstrap 4,<br>
 2) SweetAlert,<br>
 3) Datatables,<br>
-4) Laraberg - Wordpress Gutenberg Editor [https://github.com/VanOns/laraberg](https://github.com/VanOns/laraberg)
-5) GrapeJs - Page Builder [http://grapesjs.com/](http://grapesjs.com/)
-6) Bootstrap 4 Block For GrapeJs [https://github.com/kaoz70/grapesjs-blocks-bootstrap4](https://github.com/kaoz70/grapesjs-blocks-bootstrap4)
-7) Laravel Filemanager [https://github.com/UniSharp/laravel-filemanager](https://github.com/UniSharp/laravel-filemanager)
-8) Disqus - Comment System [https://disqus.com/](https://disqus.com/)
+4) Laraberg - Wordpress Gutenberg Editor [https://github.com/VanOns/laraberg](https://github.com/VanOns/laraberg)<br>
+5) GrapeJs - Page Builder [http://grapesjs.com/](http://grapesjs.com/)<br>
+6) Bootstrap 4 Block For GrapeJs [https://github.com/kaoz70/grapesjs-blocks-bootstrap4](https://github.com/kaoz70/grapesjs-blocks-bootstrap4)<br>
+7) Laravel Filemanager [https://github.com/UniSharp/laravel-filemanager](https://github.com/UniSharp/laravel-filemanager)<br>
+8) Disqus - Comment System [https://disqus.com/](https://disqus.com/)<br>
 9) WMENU Builder wordpres menu builder for laravel [https://github.com/harimayco/wmenu-builder](https://github.com/harimayco/wmenu-builder)
 </p>
 
